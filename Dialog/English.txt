@@ -1,0 +1,63 @@
+#Something Easy Start
+
+Pip_BrokenEarth_01_01= Broken Earth
+Pip_BrokenEarth_01_01_B_01= Darkness
+poem_Pip_BrokenEarth_01_01_A= Restore The Earth
+
+A01=
+[MADELINE left normal]
+Time for a day of exploring!
+
+A08=
+[MADELINE left surprised]
+That's a lot of blades!
+Is it possible to get through the top path?\
+
+A09=
+[MADELINE left upset]
+What was the point of all that?
+
+Fall=
+[MADELINE left surprised]
+That seems to be a long way down.
+[MADELINE left distracted]
+and there doesn't seem to be any way past those spikes...
+[MADELINE left determined]
+Only one way to find out, I suppose.
+
+
+Lore01=
+[]
+The city that once was, now lies in ruin.
+The earth takes back what belongs to her.
+Over the years, the plants, they grew in.
+In the spaces that buildings once were.
+
+Lore02=
+[]
+Though here it seems the trees now grow.
+The earth has something to hide.
+There is corruption down below.
+That must be removed from inside.
+
+Lore03=
+[]
+{!}FIND THE HEART RESTORE THE EARTH.{/!}
+{!}FIND THE HEART RESTORE THE EARTH.{/!}
+{!}FIND THE HEART RESTORE THE EARTH.{/!}
+{!}FIND THE HEART RESTORE THE EARTH.{/!}
+
+Theo01=
+[MADELINE left normal]
+Theo! What are you doing here?
+
+[THEO right normal]
+Just checking out the local sites!
+
+[MADELINE left upset]
+Last time you did that, I wound up carrying you through the temple.
+
+[THEO right normal]
+Oh, don't worry, that won't happen again!
+
+#Something Easy End
